@@ -1,0 +1,7 @@
+Planetary surface maps in this folder are from Solar System Scope's Solar Textures pack.
+They are distributed under the Creative Commons Attribution 4.0 International license.
+Source: https://www.solarsystemscope.com/textures/
+License: https://creativecommons.org/licenses/by/4.0/
+
+The maps were retrieved from the SolarSystem-Planet-Textures repository mirror:
+https://github.com/LDCastroverde/SolarSystem-Planet-Textures
